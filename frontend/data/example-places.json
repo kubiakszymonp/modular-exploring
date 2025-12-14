@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "title": "Zamek Królewski w Warszawie",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "description": "Historyczna rezydencja królów Polski, symbol odbudowy stolicy po II wojnie światowej"
+  },
+  {
+    "id": "2",
+    "title": "Katedra Wawelska",
+    "image": "https://images.unsplash.com/photo-1555993530-9c0e0b0e8a5e?w=800&h=600&fit=crop",
+    "description": "Miejsce koronacji królów polskich i nekropolia narodowa"
+  },
+  {
+    "id": "3",
+    "title": "Stare Miasto w Gdańsku",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop",
+    "description": "Perła architektury hanzeatyckiej nad Bałtykiem"
+  },
+  {
+    "id": "4",
+    "title": "Pałac Kultury i Nauki",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "description": "Ikona powojennej Warszawy, dar narodu radzieckiego"
+  },
+  {
+    "id": "5",
+    "title": "Kopalnia Soli w Wieliczce",
+    "image": "https://images.unsplash.com/photo-1555993530-9c0e0b0e8a5e?w=800&h=600&fit=crop",
+    "description": "Podziemne miasto wykute w soli, wpisane na listę UNESCO"
+  }
+]
+

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "general",
+    "label": "Ogólna"
+  },
+  {
+    "code": "seniors",
+    "label": "Seniorzy"
+  },
+  {
+    "code": "youth",
+    "label": "Młodzież"
+  },
+  {
+    "code": "children",
+    "label": "Dzieci"
+  },
+  {
+    "code": "professionals",
+    "label": "Profesjonaliści"
+  },
+  {
+    "code": "students",
+    "label": "Studenci"
+  }
+]
+
